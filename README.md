@@ -85,7 +85,7 @@ In which i used cloud watch metrics to publish the metrics of the website. I hav
 
 After push the metrics to cloudwatch, I have created a dashboard to show the metrics of the website.
 
-![screenshot](images/dashboard.png)
+![screenshot](dashboard.png)
 
 
 <br>
@@ -98,7 +98,7 @@ If the availability and latency of the website is not good then it will generate
 
 <br>
 
-![screenshot](images/alarm.png)
+![screenshot](alarm.png)
 
 <br>
 
@@ -115,7 +115,7 @@ Connect Availability and Latency metrics Alarm to SNS Topic and send email to th
 
 <br>
 
-![screenshot](images/sns_subcription.png)
+![screenshot](sns_subcription.png)
 
 
 <br>
@@ -124,7 +124,7 @@ That email recived from AWS when your SNS Topic is connected with your Alarm.
 
 <br>
 
-![screenshot](images/email.png)
+![screenshot](email.png)
 
 
 
